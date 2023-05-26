@@ -32,7 +32,7 @@ const data = [
       },
       {
         question: "Qual é o nome do líder dos Vingadores ?",
-        options: ["Homem de Ferro", "Thor", "sHulk", "Capitão América"],
+        options: ["Homem de Ferro", "Thor", "Hulk", "Capitão América"],
         answer: "Capitão América",
         tip: "Passou anos congelado.",
       },
